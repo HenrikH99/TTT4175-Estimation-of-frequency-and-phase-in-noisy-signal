@@ -1,5 +1,5 @@
 # TTT4175-Estimation-of-frequency-and-phase-in-noisy-signal
-Project in the course TTT4175 Estimation, Detection and Classification
+Project in the course TTT4175 Estimation, Detection and Classification, written by Wilhelm A. Kristiansen and Henrik P. Hemnes
 
 A noisy signal is generated and the FFT of the signal is performed to try and estimate the frequency and phase. The estimate accuracy will vary with the varying signal-to-noise ratio. Another method uses the Nelder-Mead algorith to try and finetune the estimate with a small FFT size.
 
